@@ -122,4 +122,15 @@ footer {
  .contacto{
     background-color: antiquewhite;
  }
-
+form{
+    background-image: url(./imagenes/fondo1.jpg);
+}
+.form-label{
+    background-color: aquamarine;
+}
+.form-text{
+    background-color: #f2f2f2;
+}
+.form-control{
+    background-color: violet;
+}
